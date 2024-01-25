@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Front-End",
+    "slug": "Front-End",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/SugarD.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/SugarD.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/SugarD.png",
+        "backgroundColor": "#112233"
+      }
+    },
+    "web": {
+      "favicon": "./assets/SugarD.png"
+    }
+  }
+}
